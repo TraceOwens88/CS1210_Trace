@@ -1,0 +1,13 @@
+/*********************************************************
+* Summary: Hello Cedarville
+* Author: Trace Owens
+* Created: August 2024
+* ©Copyright Cedarville University, its Computer Science faculty, and the
+* authors. All rights reserved.
+********************************************************/                                                                                                                                                                                                                                                                                                            
+#include <iostream>
+using namespace std
+int main () {
+cout << "Hello Cedarville!";
+        return 0;
+}                  
